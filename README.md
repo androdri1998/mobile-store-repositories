@@ -4,7 +4,7 @@ This is only a practice application with TypeScript and React Native, the functi
 
 ## Layout
   
-<img src="/layout/mobile.png" width="500px">  
+<img src="/layout/mobile.jpg" width="500px">  
   
 ### Steps to execute application
   
