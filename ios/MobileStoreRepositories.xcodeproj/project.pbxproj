@@ -7,19 +7,19 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		00E356F31AD99517003FC87E /* StoreRepositoriesTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* StoreRepositoriesTests.m */; };
+		00E356F31AD99517003FC87E /* MobileStoreRepositoriesTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* MobileStoreRepositoriesTests.m */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		2D02E4BC1E0B4A80006451C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		2DCD954D1E0B4F2C00145EB5 /* StoreRepositoriesTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* StoreRepositoriesTests.m */; };
-		6DE1035BF7DE317FE9E328C2 /* libPods-StoreRepositories.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 0B32E30124374EF66F22F144 /* libPods-StoreRepositories.a */; };
+		2DCD954D1E0B4F2C00145EB5 /* MobileStoreRepositoriesTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* MobileStoreRepositoriesTests.m */; };
+		6DE1035BF7DE317FE9E328C2 /* libPods-MobileStoreRepositories.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 0B32E30124374EF66F22F144 /* libPods-MobileStoreRepositories.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
-		C5A2E9E15985BB9A5A338FCD /* libPods-StoreRepositories-StoreRepositoriesTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 0F36FD6641BD6D81442298FE /* libPods-StoreRepositories-StoreRepositoriesTests.a */; };
-		D661D060C3F808F4D682CEBA /* libPods-StoreRepositories-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 8010B05BCFEEF7B2DE0098FC /* libPods-StoreRepositories-tvOSTests.a */; };
-		D9D043758AFC733BDBB3991E /* libPods-StoreRepositories-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4DC3286782267089D12A053B /* libPods-StoreRepositories-tvOS.a */; };
+		C5A2E9E15985BB9A5A338FCD /* libPods-MobileStoreRepositories-MobileStoreRepositoriesTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 0F36FD6641BD6D81442298FE /* libPods-MobileStoreRepositories-MobileStoreRepositoriesTests.a */; };
+		D661D060C3F808F4D682CEBA /* libPods-MobileStoreRepositories-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 8010B05BCFEEF7B2DE0098FC /* libPods-MobileStoreRepositories-tvOSTests.a */; };
+		D9D043758AFC733BDBB3991E /* libPods-MobileStoreRepositories-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4DC3286782267089D12A053B /* libPods-MobileStoreRepositories-tvOS.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -28,45 +28,45 @@
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 13B07F861A680F5B00A75B9A;
-			remoteInfo = StoreRepositories;
+			remoteInfo = MobileStoreRepositories;
 		};
 		2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 2D02E47A1E0B4A5D006451C7;
-			remoteInfo = "StoreRepositories-tvOS";
+			remoteInfo = "MobileStoreRepositories-tvOS";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		008F07F21AC5B25A0029DE68 /* main.jsbundle */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = main.jsbundle; sourceTree = "<group>"; };
-		00E356EE1AD99517003FC87E /* StoreRepositoriesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StoreRepositoriesTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		00E356EE1AD99517003FC87E /* MobileStoreRepositoriesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MobileStoreRepositoriesTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		00E356F21AD99517003FC87E /* StoreRepositoriesTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = StoreRepositoriesTests.m; sourceTree = "<group>"; };
-		0B32E30124374EF66F22F144 /* libPods-StoreRepositories.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-StoreRepositories.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		0F36FD6641BD6D81442298FE /* libPods-StoreRepositories-StoreRepositoriesTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-StoreRepositories-StoreRepositoriesTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		13B07F961A680F5B00A75B9A /* StoreRepositories.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StoreRepositories.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = StoreRepositories/AppDelegate.h; sourceTree = "<group>"; };
-		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = StoreRepositories/AppDelegate.m; sourceTree = "<group>"; };
-		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = StoreRepositories/Images.xcassets; sourceTree = "<group>"; };
-		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = StoreRepositories/Info.plist; sourceTree = "<group>"; };
-		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = StoreRepositories/main.m; sourceTree = "<group>"; };
-		2D02E47B1E0B4A5D006451C7 /* StoreRepositories-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "StoreRepositories-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		2D02E4901E0B4A5D006451C7 /* StoreRepositories-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "StoreRepositories-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		2DAE40E563D5409120515C05 /* Pods-StoreRepositories-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-StoreRepositories-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-StoreRepositories-tvOS/Pods-StoreRepositories-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
-		4DC3286782267089D12A053B /* libPods-StoreRepositories-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-StoreRepositories-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		8010B05BCFEEF7B2DE0098FC /* libPods-StoreRepositories-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-StoreRepositories-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = StoreRepositories/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		920AE01196CF291853BA329C /* Pods-StoreRepositories-StoreRepositoriesTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-StoreRepositories-StoreRepositoriesTests.release.xcconfig"; path = "Target Support Files/Pods-StoreRepositories-StoreRepositoriesTests/Pods-StoreRepositories-StoreRepositoriesTests.release.xcconfig"; sourceTree = "<group>"; };
-		A4096936F8A21A29A78A2722 /* Pods-StoreRepositories-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-StoreRepositories-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-StoreRepositories-tvOSTests/Pods-StoreRepositories-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
-		A73D6623F5213E78782B8867 /* Pods-StoreRepositories.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-StoreRepositories.release.xcconfig"; path = "Target Support Files/Pods-StoreRepositories/Pods-StoreRepositories.release.xcconfig"; sourceTree = "<group>"; };
-		BCCF69254288BC7566338DA6 /* Pods-StoreRepositories-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-StoreRepositories-tvOS.release.xcconfig"; path = "Target Support Files/Pods-StoreRepositories-tvOS/Pods-StoreRepositories-tvOS.release.xcconfig"; sourceTree = "<group>"; };
-		C08C308E478E4A49AB617A33 /* Pods-StoreRepositories-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-StoreRepositories-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-StoreRepositories-tvOSTests/Pods-StoreRepositories-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
-		D5B2C53165757B8DB1E88994 /* Pods-StoreRepositories-StoreRepositoriesTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-StoreRepositories-StoreRepositoriesTests.debug.xcconfig"; path = "Target Support Files/Pods-StoreRepositories-StoreRepositoriesTests/Pods-StoreRepositories-StoreRepositoriesTests.debug.xcconfig"; sourceTree = "<group>"; };
+		00E356F21AD99517003FC87E /* MobileStoreRepositoriesTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MobileStoreRepositoriesTests.m; sourceTree = "<group>"; };
+		0B32E30124374EF66F22F144 /* libPods-MobileStoreRepositories.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-MobileStoreRepositories.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		0F36FD6641BD6D81442298FE /* libPods-MobileStoreRepositories-MobileStoreRepositoriesTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-MobileStoreRepositories-MobileStoreRepositoriesTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07F961A680F5B00A75B9A /* MobileStoreRepositories.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MobileStoreRepositories.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = MobileStoreRepositories/AppDelegate.h; sourceTree = "<group>"; };
+		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = MobileStoreRepositories/AppDelegate.m; sourceTree = "<group>"; };
+		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = MobileStoreRepositories/Images.xcassets; sourceTree = "<group>"; };
+		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = MobileStoreRepositories/Info.plist; sourceTree = "<group>"; };
+		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = MobileStoreRepositories/main.m; sourceTree = "<group>"; };
+		2D02E47B1E0B4A5D006451C7 /* MobileStoreRepositories-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "MobileStoreRepositories-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2D02E4901E0B4A5D006451C7 /* MobileStoreRepositories-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "MobileStoreRepositories-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2DAE40E563D5409120515C05 /* Pods-MobileStoreRepositories-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MobileStoreRepositories-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-MobileStoreRepositories-tvOS/Pods-MobileStoreRepositories-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
+		4DC3286782267089D12A053B /* libPods-MobileStoreRepositories-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-MobileStoreRepositories-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8010B05BCFEEF7B2DE0098FC /* libPods-MobileStoreRepositories-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-MobileStoreRepositories-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = MobileStoreRepositories/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		920AE01196CF291853BA329C /* Pods-MobileStoreRepositories-MobileStoreRepositoriesTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MobileStoreRepositories-MobileStoreRepositoriesTests.release.xcconfig"; path = "Target Support Files/Pods-MobileStoreRepositories-MobileStoreRepositoriesTests/Pods-MobileStoreRepositories-MobileStoreRepositoriesTests.release.xcconfig"; sourceTree = "<group>"; };
+		A4096936F8A21A29A78A2722 /* Pods-MobileStoreRepositories-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MobileStoreRepositories-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-MobileStoreRepositories-tvOSTests/Pods-MobileStoreRepositories-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
+		A73D6623F5213E78782B8867 /* Pods-MobileStoreRepositories.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MobileStoreRepositories.release.xcconfig"; path = "Target Support Files/Pods-MobileStoreRepositories/Pods-MobileStoreRepositories.release.xcconfig"; sourceTree = "<group>"; };
+		BCCF69254288BC7566338DA6 /* Pods-MobileStoreRepositories-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MobileStoreRepositories-tvOS.release.xcconfig"; path = "Target Support Files/Pods-MobileStoreRepositories-tvOS/Pods-MobileStoreRepositories-tvOS.release.xcconfig"; sourceTree = "<group>"; };
+		C08C308E478E4A49AB617A33 /* Pods-MobileStoreRepositories-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MobileStoreRepositories-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-MobileStoreRepositories-tvOSTests/Pods-MobileStoreRepositories-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
+		D5B2C53165757B8DB1E88994 /* Pods-MobileStoreRepositories-MobileStoreRepositoriesTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MobileStoreRepositories-MobileStoreRepositoriesTests.debug.xcconfig"; path = "Target Support Files/Pods-MobileStoreRepositories-MobileStoreRepositoriesTests/Pods-MobileStoreRepositories-MobileStoreRepositoriesTests.debug.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
-		F3E913972B31574447799D3B /* Pods-StoreRepositories.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-StoreRepositories.debug.xcconfig"; path = "Target Support Files/Pods-StoreRepositories/Pods-StoreRepositories.debug.xcconfig"; sourceTree = "<group>"; };
+		F3E913972B31574447799D3B /* Pods-MobileStoreRepositories.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MobileStoreRepositories.debug.xcconfig"; path = "Target Support Files/Pods-MobileStoreRepositories/Pods-MobileStoreRepositories.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,7 +74,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C5A2E9E15985BB9A5A338FCD /* libPods-StoreRepositories-StoreRepositoriesTests.a in Frameworks */,
+				C5A2E9E15985BB9A5A338FCD /* libPods-MobileStoreRepositories-MobileStoreRepositoriesTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -82,7 +82,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6DE1035BF7DE317FE9E328C2 /* libPods-StoreRepositories.a in Frameworks */,
+				6DE1035BF7DE317FE9E328C2 /* libPods-MobileStoreRepositories.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -90,7 +90,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D9D043758AFC733BDBB3991E /* libPods-StoreRepositories-tvOS.a in Frameworks */,
+				D9D043758AFC733BDBB3991E /* libPods-MobileStoreRepositories-tvOS.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -98,20 +98,20 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D661D060C3F808F4D682CEBA /* libPods-StoreRepositories-tvOSTests.a in Frameworks */,
+				D661D060C3F808F4D682CEBA /* libPods-MobileStoreRepositories-tvOSTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		00E356EF1AD99517003FC87E /* StoreRepositoriesTests */ = {
+		00E356EF1AD99517003FC87E /* MobileStoreRepositoriesTests */ = {
 			isa = PBXGroup;
 			children = (
-				00E356F21AD99517003FC87E /* StoreRepositoriesTests.m */,
+				00E356F21AD99517003FC87E /* MobileStoreRepositoriesTests.m */,
 				00E356F01AD99517003FC87E /* Supporting Files */,
 			);
-			path = StoreRepositoriesTests;
+			path = MobileStoreRepositoriesTests;
 			sourceTree = "<group>";
 		};
 		00E356F01AD99517003FC87E /* Supporting Files */ = {
@@ -122,7 +122,7 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		13B07FAE1A68108700A75B9A /* StoreRepositories */ = {
+		13B07FAE1A68108700A75B9A /* MobileStoreRepositories */ = {
 			isa = PBXGroup;
 			children = (
 				008F07F21AC5B25A0029DE68 /* main.jsbundle */,
@@ -133,7 +133,7 @@
 				81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */,
 				13B07FB71A68108700A75B9A /* main.m */,
 			);
-			name = StoreRepositories;
+			name = MobileStoreRepositories;
 			sourceTree = "<group>";
 		};
 		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
@@ -141,10 +141,10 @@
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
 				ED2971642150620600B7C4FE /* JavaScriptCore.framework */,
-				0B32E30124374EF66F22F144 /* libPods-StoreRepositories.a */,
-				0F36FD6641BD6D81442298FE /* libPods-StoreRepositories-StoreRepositoriesTests.a */,
-				4DC3286782267089D12A053B /* libPods-StoreRepositories-tvOS.a */,
-				8010B05BCFEEF7B2DE0098FC /* libPods-StoreRepositories-tvOSTests.a */,
+				0B32E30124374EF66F22F144 /* libPods-MobileStoreRepositories.a */,
+				0F36FD6641BD6D81442298FE /* libPods-MobileStoreRepositories-MobileStoreRepositoriesTests.a */,
+				4DC3286782267089D12A053B /* libPods-MobileStoreRepositories-tvOS.a */,
+				8010B05BCFEEF7B2DE0098FC /* libPods-MobileStoreRepositories-tvOSTests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -159,9 +159,9 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
-				13B07FAE1A68108700A75B9A /* StoreRepositories */,
+				13B07FAE1A68108700A75B9A /* MobileStoreRepositories */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
-				00E356EF1AD99517003FC87E /* StoreRepositoriesTests */,
+				00E356EF1AD99517003FC87E /* MobileStoreRepositoriesTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				896751923113820FB4EA36BE /* Pods */,
@@ -174,10 +174,10 @@
 		83CBBA001A601CBA00E9B192 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				13B07F961A680F5B00A75B9A /* StoreRepositories.app */,
-				00E356EE1AD99517003FC87E /* StoreRepositoriesTests.xctest */,
-				2D02E47B1E0B4A5D006451C7 /* StoreRepositories-tvOS.app */,
-				2D02E4901E0B4A5D006451C7 /* StoreRepositories-tvOSTests.xctest */,
+				13B07F961A680F5B00A75B9A /* MobileStoreRepositories.app */,
+				00E356EE1AD99517003FC87E /* MobileStoreRepositoriesTests.xctest */,
+				2D02E47B1E0B4A5D006451C7 /* MobileStoreRepositories-tvOS.app */,
+				2D02E4901E0B4A5D006451C7 /* MobileStoreRepositories-tvOSTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -185,14 +185,14 @@
 		896751923113820FB4EA36BE /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				F3E913972B31574447799D3B /* Pods-StoreRepositories.debug.xcconfig */,
-				A73D6623F5213E78782B8867 /* Pods-StoreRepositories.release.xcconfig */,
-				D5B2C53165757B8DB1E88994 /* Pods-StoreRepositories-StoreRepositoriesTests.debug.xcconfig */,
-				920AE01196CF291853BA329C /* Pods-StoreRepositories-StoreRepositoriesTests.release.xcconfig */,
-				2DAE40E563D5409120515C05 /* Pods-StoreRepositories-tvOS.debug.xcconfig */,
-				BCCF69254288BC7566338DA6 /* Pods-StoreRepositories-tvOS.release.xcconfig */,
-				C08C308E478E4A49AB617A33 /* Pods-StoreRepositories-tvOSTests.debug.xcconfig */,
-				A4096936F8A21A29A78A2722 /* Pods-StoreRepositories-tvOSTests.release.xcconfig */,
+				F3E913972B31574447799D3B /* Pods-MobileStoreRepositories.debug.xcconfig */,
+				A73D6623F5213E78782B8867 /* Pods-MobileStoreRepositories.release.xcconfig */,
+				D5B2C53165757B8DB1E88994 /* Pods-MobileStoreRepositories-MobileStoreRepositoriesTests.debug.xcconfig */,
+				920AE01196CF291853BA329C /* Pods-MobileStoreRepositories-MobileStoreRepositoriesTests.release.xcconfig */,
+				2DAE40E563D5409120515C05 /* Pods-MobileStoreRepositories-tvOS.debug.xcconfig */,
+				BCCF69254288BC7566338DA6 /* Pods-MobileStoreRepositories-tvOS.release.xcconfig */,
+				C08C308E478E4A49AB617A33 /* Pods-MobileStoreRepositories-tvOSTests.debug.xcconfig */,
+				A4096936F8A21A29A78A2722 /* Pods-MobileStoreRepositories-tvOSTests.release.xcconfig */,
 			);
 			name = Pods;
 			path = Pods;
@@ -201,9 +201,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		00E356ED1AD99517003FC87E /* StoreRepositoriesTests */ = {
+		00E356ED1AD99517003FC87E /* MobileStoreRepositoriesTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "StoreRepositoriesTests" */;
+			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "MobileStoreRepositoriesTests" */;
 			buildPhases = (
 				99B57772D4E3BBB71ECEB08D /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
@@ -216,14 +216,14 @@
 			dependencies = (
 				00E356F51AD99517003FC87E /* PBXTargetDependency */,
 			);
-			name = StoreRepositoriesTests;
-			productName = StoreRepositoriesTests;
-			productReference = 00E356EE1AD99517003FC87E /* StoreRepositoriesTests.xctest */;
+			name = MobileStoreRepositoriesTests;
+			productName = MobileStoreRepositoriesTests;
+			productReference = 00E356EE1AD99517003FC87E /* MobileStoreRepositoriesTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		13B07F861A680F5B00A75B9A /* StoreRepositories */ = {
+		13B07F861A680F5B00A75B9A /* MobileStoreRepositories */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "StoreRepositories" */;
+			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "MobileStoreRepositories" */;
 			buildPhases = (
 				0420A8CB575674623975BAD1 /* [CP] Check Pods Manifest.lock */,
 				FD10A7F022414F080027D42C /* Start Packager */,
@@ -237,14 +237,14 @@
 			);
 			dependencies = (
 			);
-			name = StoreRepositories;
-			productName = StoreRepositories;
-			productReference = 13B07F961A680F5B00A75B9A /* StoreRepositories.app */;
+			name = MobileStoreRepositories;
+			productName = MobileStoreRepositories;
+			productReference = 13B07F961A680F5B00A75B9A /* MobileStoreRepositories.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2D02E47A1E0B4A5D006451C7 /* StoreRepositories-tvOS */ = {
+		2D02E47A1E0B4A5D006451C7 /* MobileStoreRepositories-tvOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "StoreRepositories-tvOS" */;
+			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "MobileStoreRepositories-tvOS" */;
 			buildPhases = (
 				CA2691919A07F07A150F36BC /* [CP] Check Pods Manifest.lock */,
 				FD10A7F122414F3F0027D42C /* Start Packager */,
@@ -257,14 +257,14 @@
 			);
 			dependencies = (
 			);
-			name = "StoreRepositories-tvOS";
-			productName = "StoreRepositories-tvOS";
-			productReference = 2D02E47B1E0B4A5D006451C7 /* StoreRepositories-tvOS.app */;
+			name = "MobileStoreRepositories-tvOS";
+			productName = "MobileStoreRepositories-tvOS";
+			productReference = 2D02E47B1E0B4A5D006451C7 /* MobileStoreRepositories-tvOS.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2D02E48F1E0B4A5D006451C7 /* StoreRepositories-tvOSTests */ = {
+		2D02E48F1E0B4A5D006451C7 /* MobileStoreRepositories-tvOSTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "StoreRepositories-tvOSTests" */;
+			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "MobileStoreRepositories-tvOSTests" */;
 			buildPhases = (
 				30F0657714A30065FBB70FBB /* [CP] Check Pods Manifest.lock */,
 				2D02E48C1E0B4A5D006451C7 /* Sources */,
@@ -276,9 +276,9 @@
 			dependencies = (
 				2D02E4921E0B4A5D006451C7 /* PBXTargetDependency */,
 			);
-			name = "StoreRepositories-tvOSTests";
-			productName = "StoreRepositories-tvOSTests";
-			productReference = 2D02E4901E0B4A5D006451C7 /* StoreRepositories-tvOSTests.xctest */;
+			name = "MobileStoreRepositories-tvOSTests";
+			productName = "MobileStoreRepositories-tvOSTests";
+			productReference = 2D02E4901E0B4A5D006451C7 /* MobileStoreRepositories-tvOSTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -307,7 +307,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "StoreRepositories" */;
+			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "MobileStoreRepositories" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -320,10 +320,10 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				13B07F861A680F5B00A75B9A /* StoreRepositories */,
-				00E356ED1AD99517003FC87E /* StoreRepositoriesTests */,
-				2D02E47A1E0B4A5D006451C7 /* StoreRepositories-tvOS */,
-				2D02E48F1E0B4A5D006451C7 /* StoreRepositories-tvOSTests */,
+				13B07F861A680F5B00A75B9A /* MobileStoreRepositories */,
+				00E356ED1AD99517003FC87E /* MobileStoreRepositoriesTests */,
+				2D02E47A1E0B4A5D006451C7 /* MobileStoreRepositories-tvOS */,
+				2D02E48F1E0B4A5D006451C7 /* MobileStoreRepositories-tvOSTests */,
 			);
 		};
 /* End PBXProject section */
@@ -392,7 +392,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-StoreRepositories-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-MobileStoreRepositories-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -428,7 +428,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-StoreRepositories-tvOSTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-MobileStoreRepositories-tvOSTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -441,7 +441,7 @@
 			files = (
 			);
 			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-StoreRepositories-StoreRepositoriesTests/Pods-StoreRepositories-StoreRepositoriesTests-resources.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-MobileStoreRepositories-MobileStoreRepositoriesTests/Pods-MobileStoreRepositories-MobileStoreRepositoriesTests-resources.sh",
 				"${PODS_CONFIGURATION_BUILD_DIR}/React-Core/AccessibilityResources.bundle",
 			);
 			name = "[CP] Copy Pods Resources";
@@ -450,7 +450,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-StoreRepositories-StoreRepositoriesTests/Pods-StoreRepositories-StoreRepositoriesTests-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-MobileStoreRepositories-MobileStoreRepositoriesTests/Pods-MobileStoreRepositories-MobileStoreRepositoriesTests-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		7673B7292A47C1F4F6B8C9E4 /* [CP] Copy Pods Resources */ = {
@@ -459,7 +459,7 @@
 			files = (
 			);
 			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-StoreRepositories/Pods-StoreRepositories-resources.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-MobileStoreRepositories/Pods-MobileStoreRepositories-resources.sh",
 				"${PODS_CONFIGURATION_BUILD_DIR}/React-Core/AccessibilityResources.bundle",
 			);
 			name = "[CP] Copy Pods Resources";
@@ -468,7 +468,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-StoreRepositories/Pods-StoreRepositories-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-MobileStoreRepositories/Pods-MobileStoreRepositories-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		99B57772D4E3BBB71ECEB08D /* [CP] Check Pods Manifest.lock */ = {
@@ -486,7 +486,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-StoreRepositories-StoreRepositoriesTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-MobileStoreRepositories-MobileStoreRepositoriesTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -508,7 +508,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-StoreRepositories-tvOS-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-MobileStoreRepositories-tvOS-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -560,7 +560,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				00E356F31AD99517003FC87E /* StoreRepositoriesTests.m in Sources */,
+				00E356F31AD99517003FC87E /* MobileStoreRepositoriesTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -586,7 +586,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2DCD954D1E0B4F2C00145EB5 /* StoreRepositoriesTests.m in Sources */,
+				2DCD954D1E0B4F2C00145EB5 /* MobileStoreRepositoriesTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -595,12 +595,12 @@
 /* Begin PBXTargetDependency section */
 		00E356F51AD99517003FC87E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 13B07F861A680F5B00A75B9A /* StoreRepositories */;
+			target = 13B07F861A680F5B00A75B9A /* MobileStoreRepositories */;
 			targetProxy = 00E356F41AD99517003FC87E /* PBXContainerItemProxy */;
 		};
 		2D02E4921E0B4A5D006451C7 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 2D02E47A1E0B4A5D006451C7 /* StoreRepositories-tvOS */;
+			target = 2D02E47A1E0B4A5D006451C7 /* MobileStoreRepositories-tvOS */;
 			targetProxy = 2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -608,14 +608,14 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = D5B2C53165757B8DB1E88994 /* Pods-StoreRepositories-StoreRepositoriesTests.debug.xcconfig */;
+			baseConfigurationReference = D5B2C53165757B8DB1E88994 /* Pods-MobileStoreRepositories-MobileStoreRepositoriesTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = StoreRepositoriesTests/Info.plist;
+				INFOPLIST_FILE = MobileStoreRepositoriesTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -625,17 +625,17 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/StoreRepositories.app/StoreRepositories";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MobileStoreRepositories.app/MobileStoreRepositories";
 			};
 			name = Debug;
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 920AE01196CF291853BA329C /* Pods-StoreRepositories-StoreRepositoriesTests.release.xcconfig */;
+			baseConfigurationReference = 920AE01196CF291853BA329C /* Pods-MobileStoreRepositories-MobileStoreRepositoriesTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
-				INFOPLIST_FILE = StoreRepositoriesTests/Info.plist;
+				INFOPLIST_FILE = MobileStoreRepositoriesTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -645,19 +645,19 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/StoreRepositories.app/StoreRepositories";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MobileStoreRepositories.app/MobileStoreRepositories";
 			};
 			name = Release;
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = F3E913972B31574447799D3B /* Pods-StoreRepositories.debug.xcconfig */;
+			baseConfigurationReference = F3E913972B31574447799D3B /* Pods-MobileStoreRepositories.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				ENABLE_BITCODE = NO;
-				INFOPLIST_FILE = StoreRepositories/Info.plist;
+				INFOPLIST_FILE = MobileStoreRepositories/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
@@ -665,7 +665,7 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = StoreRepositories;
+				PRODUCT_NAME = MobileStoreRepositories;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -674,12 +674,12 @@
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = A73D6623F5213E78782B8867 /* Pods-StoreRepositories.release.xcconfig */;
+			baseConfigurationReference = A73D6623F5213E78782B8867 /* Pods-MobileStoreRepositories.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
-				INFOPLIST_FILE = StoreRepositories/Info.plist;
+				INFOPLIST_FILE = MobileStoreRepositories/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
@@ -687,7 +687,7 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = StoreRepositories;
+				PRODUCT_NAME = MobileStoreRepositories;
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -695,7 +695,7 @@
 		};
 		2D02E4971E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 2DAE40E563D5409120515C05 /* Pods-StoreRepositories-tvOS.debug.xcconfig */;
+			baseConfigurationReference = 2DAE40E563D5409120515C05 /* Pods-MobileStoreRepositories-tvOS.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -706,14 +706,14 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_TESTABILITY = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "StoreRepositories-tvOS/Info.plist";
+				INFOPLIST_FILE = "MobileStoreRepositories-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.StoreRepositories-tvOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.MobileStoreRepositories-tvOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				TARGETED_DEVICE_FAMILY = 3;
@@ -723,7 +723,7 @@
 		};
 		2D02E4981E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = BCCF69254288BC7566338DA6 /* Pods-StoreRepositories-tvOS.release.xcconfig */;
+			baseConfigurationReference = BCCF69254288BC7566338DA6 /* Pods-MobileStoreRepositories-tvOS.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -734,14 +734,14 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "StoreRepositories-tvOS/Info.plist";
+				INFOPLIST_FILE = "MobileStoreRepositories-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.StoreRepositories-tvOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.MobileStoreRepositories-tvOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				TARGETED_DEVICE_FAMILY = 3;
@@ -751,7 +751,7 @@
 		};
 		2D02E4991E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = C08C308E478E4A49AB617A33 /* Pods-StoreRepositories-tvOSTests.debug.xcconfig */;
+			baseConfigurationReference = C08C308E478E4A49AB617A33 /* Pods-MobileStoreRepositories-tvOSTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -761,24 +761,24 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_TESTABILITY = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "StoreRepositories-tvOSTests/Info.plist";
+				INFOPLIST_FILE = "MobileStoreRepositories-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.StoreRepositories-tvOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.MobileStoreRepositories-tvOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/StoreRepositories-tvOS.app/StoreRepositories-tvOS";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MobileStoreRepositories-tvOS.app/MobileStoreRepositories-tvOS";
 				TVOS_DEPLOYMENT_TARGET = 10.1;
 			};
 			name = Debug;
 		};
 		2D02E49A1E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = A4096936F8A21A29A78A2722 /* Pods-StoreRepositories-tvOSTests.release.xcconfig */;
+			baseConfigurationReference = A4096936F8A21A29A78A2722 /* Pods-MobileStoreRepositories-tvOSTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -788,17 +788,17 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "StoreRepositories-tvOSTests/Info.plist";
+				INFOPLIST_FILE = "MobileStoreRepositories-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.StoreRepositories-tvOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.MobileStoreRepositories-tvOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/StoreRepositories-tvOS.app/StoreRepositories-tvOS";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MobileStoreRepositories-tvOS.app/MobileStoreRepositories-tvOS";
 				TVOS_DEPLOYMENT_TARGET = 10.1;
 			};
 			name = Release;
@@ -919,7 +919,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "StoreRepositoriesTests" */ = {
+		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "MobileStoreRepositoriesTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				00E356F61AD99517003FC87E /* Debug */,
@@ -928,7 +928,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "StoreRepositories" */ = {
+		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "MobileStoreRepositories" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				13B07F941A680F5B00A75B9A /* Debug */,
@@ -937,7 +937,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "StoreRepositories-tvOS" */ = {
+		2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "MobileStoreRepositories-tvOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2D02E4971E0B4A5E006451C7 /* Debug */,
@@ -946,7 +946,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "StoreRepositories-tvOSTests" */ = {
+		2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "MobileStoreRepositories-tvOSTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2D02E4991E0B4A5E006451C7 /* Debug */,
@@ -955,7 +955,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "StoreRepositories" */ = {
+		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "MobileStoreRepositories" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				83CBBA201A601CBA00E9B192 /* Debug */,
